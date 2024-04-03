@@ -4,7 +4,7 @@ Made by PSVKS. This code only works on KATLine.
 Last update: 03/04/2024
 """
 
-class LoadCode
+class LoadCode:
   def __init__(self) -> None:
     pass
 
