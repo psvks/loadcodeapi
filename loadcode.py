@@ -18,7 +18,7 @@ class LoadCode:
 
 
 
-def LoadCodeAPI_Verify():
+def LoadCodeAPI_Verify(args):
   success('LoadCode API is loaded! Made by PSVKS')
 
 
